@@ -1,0 +1,26 @@
+{
+  "name": "otpj",
+  "version": "1.0.0",
+  "description": "A custom OTP number generator.",
+  "main": "otp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jayaruvan Dissanayake (jayaruvan@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaruvan/otpj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayaruvan/otpj/issues"
+  },
+  "homepage": "https://github.com/jayaruvan/otpj#readme"
+}

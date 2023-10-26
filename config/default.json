@@ -1,0 +1,17 @@
+{
+    "otp": {
+        "digits": "0123456789",
+        "length": 4
+    },
+    "log": {
+        "Config": {
+            "logFolder": "./logs/otp_service/",
+            "logFile": "otp_service_%DATE%.log",
+            "logLevel": "debug",
+            "datePattern": "YYYY-MM-DD-HH",
+            "zippedArchive": true,
+            "maxSize": "20m",
+            "maxFiles": "900d"
+        }
+    }
+}
